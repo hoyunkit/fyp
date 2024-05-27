@@ -1,0 +1,44 @@
+
+/*body {
+    border: 5px solid #aaa;
+}*/
+
+flex {
+    display: flex;
+    border: 5px solid #aaa;
+    overflow: hidden;
+    background-color:#dcdcdc;
+    
+}
+
+flex.v {
+    flex-direction: column;
+}
+flex.h {
+    flex-direction: row;
+}
+flex-item {
+    overflow: auto;
+    width: 100%;
+    /*height: 100%;*/
+    /*height:700px;*/
+}
+flex > flex-resizer {
+    flex: 0 0 10px;
+    background-color: #aaa;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+flex.h > flex-resizer {
+    cursor: ew-resize;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='30'><path d='M2 0 v30 M5 0 v30 M8 0 v30' fill='none' stroke='black'/></svg>");
+}
+flex.v > flex-resizer {
+    cursor: ns-resize;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='10'><path d='M0 2 h30 M0 5 h30 M0 8 h30' fill='none' stroke='black'/></svg>");
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,10 @@
+{
+    "name": "kit/e-library",
+    "authors": [
+        {
+            "name": "Kit Ho",
+            "email": "yunkith@gmail.com"
+        }
+    ],
+    "require": {}
+}

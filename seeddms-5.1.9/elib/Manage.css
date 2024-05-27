@@ -1,0 +1,67 @@
+
+.tabbarres a {
+    padding: 8px 8px 8px 8px;
+    display: block;
+
+
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+
+table {
+    border-spacing: 10px 2px;
+    border-collapse: separate;
+}
+
+tr{
+    text-align:left; 
+}
+
+th{
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+
+}
+th:hover {
+    cursor: pointer;
+    
+}
+
+.delbookmarkbtn{
+    cursor: pointer;
+}
+
+hr{
+    border: 0.5px solid #ccc;
+
+}
+
+.notespan:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.notespanfull:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.notespanfull{
+    padding-bottom: 20px;
+}
+
+#delNote:hover{
+    cursor: pointer;
+}
+
+#hovertmp:hover:after{
+    content: ' v';
+}
+ 
+#night-adjust{
+    color: black;
+ }

@@ -1,0 +1,288 @@
+/* Overall styling for the app */
+.app {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+  }
+  
+  h1,
+  #topic {
+    color: white;
+  }
+  
+  p.#score {
+    color: #000000;
+  }
+  
+  body {
+      margin: auto;
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      overflow: auto;
+      background: linear-gradient(315deg, rgba(101,0,94,1) 3%, rgba(60,132,206,1) 38%, rgba(48,238,226,1) 68%, rgba(255,25,25,1) 98%);
+      animation: gradient 15s ease infinite;
+      background-size: 400% 400%;
+      background-attachment: fixed;
+  }
+
+  .loading {
+    display: block;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 20px;
+    color: #333;
+}
+  
+  @keyframes gradient {
+      0% {
+          background-position: 0% 0%;
+      }
+      50% {
+          background-position: 100% 100%;
+      }
+      100% {
+          background-position: 0% 0%;
+      }
+  }
+  
+  .wave {
+      background: rgb(255 255 255 / 25%);
+      border-radius: 1000% 1000% 0 0;
+      position: fixed;
+      width: 200%;
+      height: 12em;
+      animation: wave 10s -3s linear infinite;
+      transform: translate3d(0, 0, 0);
+      opacity: 0.8;
+      bottom: 0;
+      left: 0;
+      z-index: -1;
+  }
+  
+  .wave:nth-of-type(2) {
+      bottom: -1.25em;
+      animation: wave 18s linear reverse infinite;
+      opacity: 0.8;
+  }
+  
+  .wave:nth-of-type(3) {
+      bottom: -2.5em;
+      animation: wave 20s -1s reverse infinite;
+      opacity: 0.9;
+  }
+  
+  @keyframes wave {
+      2% {
+          transform: translateX(1);
+      }
+  
+      25% {
+          transform: translateX(-25%);
+      }
+  
+      50% {
+          transform: translateX(-50%);
+      }
+  
+      75% {
+          transform: translateX(-25%);
+      }
+  
+      100% {
+          transform: translateX(1);
+      }
+  }
+  
+  /* Styling for the background bubbles */
+  .bg-[#ffb3b8] {
+    background-color: #ffb3b8;
+    position: absolute;
+    top: -6rem;
+    right: 10rem;
+    height: 31.25rem;
+    width: 35rem;
+    border-radius: 50%;
+    filter: blur(5rem);
+    opacity: 0.5;
+    mix-blend-mode: multiply;
+    z-index: -10;
+  }
+  
+  .bg-[#c1c0fb] {
+    background-color: #c1c0fb;
+    position: absolute;
+    top: 8rem;
+    left: -35rem;
+    height: 31.25rem;
+    width: 50rem;
+    border-radius: 50%;
+    filter: blur(5rem);
+    opacity: 0.5;
+    mix-blend-mode: multiply;
+    z-index: -10;
+    animation: bubble_delay_2s;
+  }
+  
+  .bg-[#b2fdd5] {
+    background-color: #b2fdd5;
+    position: absolute;
+    top: 15rem;
+    right: -20rem;
+    height: 31.25rem;
+    width: 35rem;
+    border-radius: 50%;
+    filter: blur(5rem);
+    opacity: 0.5;
+    mix-blend-mode: multiply;
+    z-index: -10;
+    animation: bubble_delay_4s;
+  }
+  
+  /* Keyframes for bubble animation */
+  @keyframes bubble_delay_2s {
+    0% {
+      opacity: 0.5;
+      transform: translateX(-35rem);
+    }
+    100% {
+      opacity: 0.5;
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes bubble_delay_4s {
+    0% {
+      opacity: 0.5;
+      transform: translateX(20rem);
+    }
+    100% {
+      opacity: 0.5;
+      transform: translateX(0);
+    }
+  }
+  
+  /* Styling for the quiz container */
+  .quiz {
+    background-color: #B0C4DE;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 400px;
+    border-radius: 5px;
+  }
+  
+  /* Styling for the question text */
+  #question {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styling for answer buttons */
+  .quizbtn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #00008B;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .quizbtn:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Styling for the selected answer button */
+  .selected-answer {
+    background-color: #ffc107 !important; /* Override default background color */
+  }
+  
+  .selected-answer:hover {
+    background-color: #e0a800 !important; /* Override default hover background color */
+  }
+  
+  /* Styling for the correct answer button */
+  
+  
+  /* Styling for the results */
+  .question-result {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    background-color: #f8f8f8;
+    transition: background-color 0.3s ease;
+  }
+  
+  .question-result:hover {
+    background-color: #A9CDCD;
+  }
+  
+  .details-container {
+    display: none; /* Hide the details container by default */
+    margin-top: 10px;
+    
+  }
+  
+  .question-result:hover .details-container {
+    display: block; /* Display the details container when hovering over the mini card */
+  }
+  
+  .score-display {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    background-color: #B0C4DE;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px 0;
+  }
+  
+  /* Styling for the score */
+  #score {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+
+  .quiz {
+    margin-bottom: 20px;
+  }
+
+  #next-btn {
+    padding: 10px 20px;
+    margin-top: 5 px;
+  }
+  
+  .loading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .loading-spinner {
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+  }
+  
+  .loading-text {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }

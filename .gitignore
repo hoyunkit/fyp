@@ -1,0 +1,9 @@
+.vscode/
+conf/
+data/
+nbproject/
+www/
+debug.txt
+
+
+/vendor/

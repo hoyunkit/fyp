@@ -1,0 +1,83 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="cp:revision" content="2"/>
+<meta name="extended-properties:AppVersion" content="14.0000"/>
+<meta name="meta:paragraph-count" content="6"/>
+<meta name="meta:word-count" content="490"/>
+<meta name="extended-properties:Application" content="Microsoft Office Word"/>
+<meta name="meta:last-author" content="sxsoon"/>
+<meta name="dc:creator" content="sxsoon"/>
+<meta name="extended-properties:Company" content=""/>
+<meta name="meta:print-date" content="2017-08-27T21:30:00Z"/>
+<meta name="xmpTPg:NPages" content="12"/>
+<meta name="resourceName" content="6.docx"/>
+<meta name="dcterms:created" content="2022-05-23T04:08:00Z"/>
+<meta name="meta:line-count" content="23"/>
+<meta name="dcterms:modified" content="2022-05-23T04:08:00Z"/>
+<meta name="meta:character-count" content="2799"/>
+<meta name="extended-properties:Template" content="Normal"/>
+<meta name="meta:character-count-with-spaces" content="3283"/>
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.DefaultParser"/>
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.microsoft.ooxml.OOXMLParser"/>
+<meta name="extended-properties:DocSecurityString" content="None"/>
+<meta name="Content-Length" content="54110"/>
+<meta name="meta:page-count" content="12"/>
+<meta name="Content-Type" content="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+<meta name="dc:publisher" content=""/>
+<title></title>
+</head>
+<body><p class="header">
+
+</p>
+<p class="header">
+
+</p>
+<p>壇內不問國事。七目也。</p>
+<p>壇內不問秘求事故。八目也。</p>
+<p>坐功諸弟子。日久自有事事預知之人。不可在壇譁辯。九目也。</p>
+<p>壇前坐時。有經在室。如坐悟竅上有小圓白光時。速起立進墊。叩九通。久則白光聚結不散。　師壇增光矣。十目也。</p>
+<p class="內文_敬引文">庚申經壇諸方齒錄此錄依據辛酉年原編其有歸道者則於備考欄內註明</p>
+
+
+<p><a name="_Toc491366073"/>第二節　初創時期</p>
+<p>本節述道院之初創。蓋由胚胎時期。進而達於誕生之期間也。惟道院之創設。在民國十年。(辛酉)而正式成立。則在次年立春。其間因真經與道院。須取得法律上之保障。方足以利惟行。亦有多少經過之事實。故此時期。復分為道院創設。眞經與道院立案之經過。道院正式成立三項。分述之。</p>
+<p class="內文_敬引文">(一)道院創設</p>
+<p>眞經既傳竣。領經諸子。咸能仰體　老祖降靈救世之微意。知斯經之傳。非此數十人所得而私也。僉謂宜宏修己渡人之願。普濟群生。既不可以壇坫命名。復不得以一社一會之稱相揭櫫。環叩以請。奉示定名曰道院。蓋取大道為公。作萬緣共渡之修府之意也。是為道院命名之始。當真經校正之頃。即宏啟群眾求修之徑。稱之曰修方。令職方諸子。先擬願言四句。末加『如背願言上天是鑒』二語(詳第四章)。初入請疏。首具二願。由初次領經人為介引。求准謝疏。則四願俱書。虔誠具願。皆可成行。努力加修。己成自能成人也。是為道院初定修方進修之始。</p>
+<p>是時修途既啟。求者漸多。辦事地點。仍以傳經處為集中。指坐則在掌方默靖寓宅中。慮其不足以資展布也。爰賃定上新街房舍為院址。奉示於辛酉二月九日開院。定名曰濟南道院。經壇重地。永不遷移。壇與院分。道基斯立。是為道院創設之始。</p>
+<p>院基既定。供奉宜有所崇。奉示設正位一（即今日各院所供之　老祖暨　五教教主︶配二位。︵即　孔子　孟子　約</p>
+<p class="內文_敬引文">翰　若瑟　眞武　南極　文殊　坦文丁澤　馬普　觀世</p>
+<p class="內文_敬引文">音　玄奘　先賢周惇頤十二聖）　鎮壇將軍統院掌籍位</p>
+<p>一（孚佑帝君神位)。監坐位一(即　達摩祖師　普賢尊者二神位)。護經位一。（即　文殊菩薩　護經慧師二神位）均銅製。如今式。是為當時供奉　神位之始。</p>
+<p>於時院務漸繁。規模未備。人事之責。亦尚簡易。奉示分設統院及坐壇經慈宣五院。每院設掌籍一人。附掌籍二人。文會一人。明定職事。各有專司。是為道院設職之始。</p>
+<p class="內文1">附當時各院職方名次。</p>
+<p class="內文1">一統院　當時未派統掌。但設院監。以坐掌默靖代之。</p>
+<p class="內文1">一坐院掌籍默靖　附掌籍靜存春谿　文會仁性。</p>
+<p class="內文1">一壇院掌籍福緣　附掌籍福坦敦性　文會吉中。</p>
+<p class="內文1">一經院掌籍福燁　附掌籍解空華普　文會無華。</p>
+<p class="內文1">一慈院掌籍濟眞　附掌藉慈修智真　文會麓雲。</p>
+<p class="內文1">一宣院掌籍嬰芝　附掌籍宣望和真　文會善濟。</p>
+<p>又外宣四人。貫清宣北。秋舫宣西。修如宣東。無凡宣南。</p>
+<p>修方求修習坐。三庚不缺。判准領經賜名。奉示准照大本經付鉛印。經本按大本經橫寬二分之一為定式。(即今日各方所領之副經是）並賜書素圓惟靈四字匾額。為修方排名之冠字。辛酉三月朔。開始授經。(詳見道德雜誌所載授經人經錄)是為修方領經排名之始。</p>
+<p>以上各端。皆道院初基創立之犖犖大者。篳路籃褸。締造艱辛。於茲略得其梗概矣。</p>
+<p>(二)眞經與道院立案之經過</p>
+<p>道院既創設於濟南。為推行計。自當取得政府之維護。乃人事所必經之過程。顧以當時情勢。不無障阻。乃易為先以眞經取得版權為前提。因於民十(辛酉秋)命圓誠賚真經二部入京。具呈內務部立案。由默靖領名。以五院職方福緣、福燁、濟真、嬰芝等連署。時歷月餘。亦經多少困難之境。卒於是年九月。奉部批准給照。明定版權歸濟南道院所有矣。(部批文詳後)</p>
+<p>眞經版權既取得。因進而謀道院固基之舉。十一年一月。由院方擬具院章十二條。呈部立案。得徐素一是時天津道院已成立。徐公任統掌。今已歸道。錫封為　堅基真人斡旋之力。奉部批准。通行各省。同時並呈奉山東省長公署備案。登報公佈。而道院萬載不拔之基。乃立於斯時矣。</p>
+<p class="內文1">附眞經版權部批民國十年九月二十二日</p>
+<p class="內文1">內務部據濟南道院代表人杜默靖呈送太乙北極眞經一類著作物。請予註冊。查與著作權法第七條規定相符。應即填具執照給濟南道院收執。</p>
+<p class="內文1">濟南道院立案部批民國十一年一月目</p>
+<p class="內文1">據呈稱在濟南創設道院擬具院章十二條謹守道德慈善之範圍毫無政冶黨派之關係聯名具稟繕具院章請予鑒核批准立案等情到部詳閱來呈既以提倡道德實行慈善為宗旨其所附簡章亦尚妥協應即准予備案通行各省此批</p>
+<p class="內文1">附呈部院章十二條</p>
+<p class="內文1">第一條　　本院以提倡道德實行慈善為宗旨定名曰道院。</p>
+<p class="內文1">第二條　　本院道旨重在習靜參悟太乙北極眞經與專研道教者有別。</p>
+<p class="內文1">第三條　　凡誠心嚮道者皆得入院進修無種族宗教之區分但以不涉政治不聯黨派為要。</p>
+<p class="內文1">第四條本院創設於濟南以次推廣及於各地。</p>
+<p class="內文1">第五條眞經版權奉內務部批准屬於濟南道院凡入院修道者得領</p>
+<p class="內文1">受之。</p>
+<p class="內文1">第六條凡修道者均有推行道務及尊重道範之責。</p>
+<p class="內文1">第七條本院設院掌院監及庶務文會分任一切道務。</p>
+<p class="內文1">第八條本院經費概不勸募得以經價餘款及寄附金充之。</p>
+<p class="內文1">第九條本院收支各種慈善款項應隨時分別公布以昭信用。</p>
+<p class="內文1">第十條本院道務遇有重要關係時得由在道人會議公決。</p>
+<p class="內文1">第十一條本章如有未盡事宜得隨時公議修改之。</p>
+<p class="內文1"><a name="_GoBack"/>第十二條本章自奉部批准之日實行。</p>
+</body></html>
